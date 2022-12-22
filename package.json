@@ -10,14 +10,16 @@
   },
   "dependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "@linaria/core": "^4.2.4",
+    "@linaria/react": "^4.2.4"
   },
   "devDependencies": {
     "@types/react": "^18.0.17",
     "@types/react-dom": "^18.0.6",
     "@vitejs/plugin-react": "^2.1.0",
+    "@linaria/vite": "^4.2.4",
     "typescript": "^4.6.4",
-    "vite": "^3.1.0",
-    "vite-plugin-linaria": "^1.0.0"
+    "vite": "4.0.2"
   }
 }
